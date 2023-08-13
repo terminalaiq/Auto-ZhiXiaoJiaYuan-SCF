@@ -2,14 +2,14 @@
   {
     "enable": true,
     "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
+    "phone": "17337011694",
+    "password": "lkl1926839244.",
     "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceType": "realme|RMX3350|13",
+    "deviceId": "fcb6e5c11c1245418238c6a21ee87dcac83b",
+    "address": "山西省太原市万柏林区和平南路73号神灯创孵化园集中办公区114号",
+    "longitude": "112.511063",
+    "latitude": "37.862526",
+    "pushKey": "262304c873234d18a90c658c00cc91b3"
   }
 ]
